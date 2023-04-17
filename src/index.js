@@ -1,3 +1,6 @@
-var derp = ['string,','string2'];
+const app = document.querySelector("#app");
 
-console.log( derp.toString(' , ') )
+app.innerHTML = `
+    <div>JavaScript powaaa</div>
+
+`;
